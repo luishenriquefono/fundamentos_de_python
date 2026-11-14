@@ -1,6 +1,6 @@
 #  Elabore um programa para cálculo de preços de produtos que solicite o preço de compra do produto e o percentual a ser aplicado em cima desse valor para a venda. Calcule e exiba o preço de venda do produto. Se o percentual a ser aplicado for inferior a 50%, exiba uma mensagem informando ao usuário que o produto será vendido com uma margem muito pequena de lucro.
 print() #pular linha
-print() #pualar linha
+print() #pular linha
 
 print("|********************************************************************************************************|")
 print("|Programa para calcular o preço de venda de um produto com base no preço de compra e percentual de lucro |")

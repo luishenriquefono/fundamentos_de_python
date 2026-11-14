@@ -1,0 +1,15 @@
+# operadores lógicos
+# and - ambas as expressões devem retornar verdadeiras
+# or - apenas uma das expressões devem retornar verdadeira
+
+idade = 18
+ingresso = False
+
+
+# conjugar com operador and
+if idade >= 18 or ingresso == True :
+    print (" Seja bem-bvindo à festa 🥳🎉")
+
+else :
+    print(" Você não pode entrar na festa")
+

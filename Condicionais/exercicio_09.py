@@ -1,6 +1,11 @@
 # Uma empresa decide dar aumento de 30% aos funcionários cujo salário é inferior a 500 reais. Escreva um programa que receba o salário de um funcionário e imprima ovalor do salário reajustado ou uma mensagem caso o funcionário não tenha direito a aumento.
 
-print(" Algoritmo para calcular o sakário de um funcionário com aumento de 30% caso o salário seja menor que 500 reais")
+print() #pular linha
+print() #pular linha
+print("|***********************************************************************************************************************|")
+print("|    Programa para calcular o sakário de um funcionário com aumento de 30porcento caso o salário seja menor que 50 reais|")
+print("|                                             Versão 1.0 - 2026                                                         |")
+print("|***********************************************************************************************************************|")
 
 print() #pular linha
 

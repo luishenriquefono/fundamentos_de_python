@@ -3,6 +3,8 @@
 
 print("Algoritmo para informar se o usuário deve pegar uma blusa ou não ")
 
+print() #pular linha
+
 #Entrada Solicitar a temperatura para o usuário
 temperatura = int( input("Digite a temperatura: ") )
 
@@ -17,5 +19,3 @@ else : #false
 
 print() #pular linha
 print("Fim do programa")
-
-

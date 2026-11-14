@@ -9,8 +9,11 @@ temperatura = int( input("Digite a temperatura: ") )
 print() #pular linha
 
 #Processameento
-if temperatura <= 16 :
+if temperatura <= 16 : #true
     print("Pegue e coloque uma blusa pois está frio")
+
+else : #false
+    print(" Não precisa pegar uma blusa pois está calor")
 
 print() #pular linha
 print("Fim do programa")

@@ -14,6 +14,9 @@ print() #pular linha
 precoCompra = float(input(" Digite o valo do do produto: "))
 porcentualLucro = float(input(" Digite o porcentual de lucro que deseja aplicar: "))
 
+# outra opção de entrada
+# percentualAplicado = float(input("Digite o porcentual a ser aplicado : ")
+
 print() #pular linha
 
 #Processamento
@@ -24,6 +27,13 @@ if porcentualLucro <= 50: #True
 else: #False
     precoVenda = precoCompra * (1 + (porcentualLucro / 100))
     print("O produto será vendido com uma margem de lucro satisfatória")
+
+# outra opção de processamento
+# precoVenda = precoCompra + (precoCompra * percentualAplicado / 100)
+# Caso queira colocar a porcentagem:
+# if percentualAplicado < 50 :
+# print("Percentual inferior a 50% - o produto será vendido com margem pequena de lucro")
+
 
 print() #pular linha
 # Saída
